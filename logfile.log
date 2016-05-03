@@ -1,0 +1,64 @@
+2016-04-21 18:53:27,932 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:53:27,933 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:53:27,933 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-21 18:53:27,933 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:53:27,933 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:53:27,936 INFO  [Log] Opening Browser 
+2016-04-21 18:53:33,756 INFO  [Log] Mozilla browser started 
+2016-04-21 18:53:34,254 INFO  [Log] Navigating to URL 
+2016-04-21 18:53:34,518 INFO  [Log] Clicking on Webelement account 
+2016-04-21 18:53:45,590 INFO  [Log] Entering the text in log 
+2016-04-21 18:53:49,647 INFO  [Log] Entering the text in pwd 
+2016-04-21 18:53:49,843 INFO  [Log] Clicking on Webelement login 
+2016-04-21 18:53:50,138 INFO  [Log] Wait for 5 seconds 
+2016-04-21 18:53:55,253 INFO  [Log] Verifying element 
+2016-04-21 18:53:55,320 INFO  [Log] The page contains the element account_logout 
+2016-04-21 18:53:55,387 INFO  [Log] Verifying that text My Account exist in the page  
+2016-04-21 18:53:55,442 INFO  [Log] The page contains the text My Account 
+2016-04-21 18:53:55,519 INFO  [Log] Clicking on Webelement account_logout 
+2016-04-21 18:53:55,770 INFO  [Log] Closing the browser 
+2016-04-21 18:53:56,559 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-04-21 18:53:56,560 INFO  [Log] X 
+2016-04-21 18:53:56,560 INFO  [Log] X 
+2016-04-21 18:53:56,560 INFO  [Log] X 
+2016-04-21 18:53:56,560 INFO  [Log] X 
+2016-04-21 18:56:04,432 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:56:04,433 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:56:04,433 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 SearchOnGoogle       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-21 18:56:04,433 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:56:04,433 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:56:04,436 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-04-21 18:56:04,437 INFO  [Log] Opening Browser 
+2016-04-21 18:56:09,024 INFO  [Log] Mozilla browser started 
+2016-04-21 18:56:14,781 INFO  [Log] Navigating to URL 
+2016-04-21 18:56:18,741 INFO  [Log] Entering the text in lst-ib 
+2016-04-21 18:56:19,256 INFO  [Log] Clicking on Webelement sblsbb 
+2016-04-21 18:56:19,772 INFO  [Log] Wait for 5 seconds 
+2016-04-21 18:56:24,906 INFO  [Log] Verifying that text keyword driven testing exist in the page  
+2016-04-21 18:56:25,516 INFO  [Log] The page contains the text keyword driven testing 
+2016-04-21 18:56:25,613 INFO  [Log] Closing the browser 
+2016-04-21 18:56:26,257 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-04-21 18:56:26,257 INFO  [Log] X 
+2016-04-21 18:56:26,257 INFO  [Log] X 
+2016-04-21 18:56:26,257 INFO  [Log] X 
+2016-04-21 18:56:26,257 INFO  [Log] X 
+2016-04-21 18:57:06,622 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:57:06,623 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:57:06,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 SearchOnGoogle       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-21 18:57:06,623 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:57:06,623 INFO  [Log] **************************************************************************************** 
+2016-04-21 18:57:06,627 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2016-04-21 18:57:06,628 INFO  [Log] Opening Browser 
+2016-04-21 18:57:11,052 INFO  [Log] Mozilla browser started 
+2016-04-21 18:57:16,731 INFO  [Log] Navigating to URL 
+2016-04-21 18:57:20,594 INFO  [Log] Entering the text in lst-ib 
+2016-04-21 18:57:21,400 INFO  [Log] Clicking on Webelement sblsbb 
+2016-04-21 18:57:21,793 INFO  [Log] Wait for 5 seconds 
+2016-04-21 18:57:26,915 INFO  [Log] Verifying that text blablabla exist in the page  
+2016-04-21 18:57:27,200 ERROR [Log] The page DO NOT contains the text blablabla 
+2016-04-21 18:57:27,290 INFO  [Log] Closing the browser 
+2016-04-21 18:57:27,936 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-04-21 18:57:27,936 INFO  [Log] X 
+2016-04-21 18:57:27,936 INFO  [Log] X 
+2016-04-21 18:57:27,936 INFO  [Log] X 
+2016-04-21 18:57:27,936 INFO  [Log] X 
